@@ -5,14 +5,7 @@
   <h2>Your first step into the world of Open Source 🚀</h2>
 </div>
 
-<div align="center">
-  
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/your-repo.svg?style=social&label=Star&maxAge=2592000)](https://github.com/yourusername/your-repo/stargazers/)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/your-repo.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/yourusername/your-repo/network/)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/your-repo.svg)](https://github.com/yourusername/your-repo/issues/)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-</div>
 
 ## 📚 Table of Contents
 
