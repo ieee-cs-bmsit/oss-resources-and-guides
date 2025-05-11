@@ -389,5 +389,5 @@ Not sure where to start? Here are some resources to find beginner-friendly proje
 
 <div align="center">
   <p>Crafted with ❤️ for Open Source Contributors</p>
-  <p>© 2025 IEEE Society</p>
+  <p>© 2025 IEEE Computer Society BMSIT&M Chapter</p>
 </div>
