@@ -60,7 +60,7 @@
 ## 🌟 What is Open Source?
 
 <div align="center">
-  <img src="https://opensource.org/wp-content/uploads/2023/01/osi-symbol-with-tag.png" alt="Open Source Logo" width="200px">
+  <img src="./assets/osi_symbol.webp" alt="Open Source Logo" width="200px">
 </div>
 
 Open Source Software (OSS) is code that is designed to be publicly accessible—anyone can see, modify, and distribute the code as they see fit. Open source projects embrace principles of open exchange, collaborative participation, transparent processes, and community-oriented development.
@@ -124,9 +124,7 @@ git pull origin main
 
 ## 🌱 Forking and Cloning
 
-<div align="center">
-  <img src="https://docs.github.com/assets/cb-23923/images/help/repository/fork_button.png" alt="Fork Button" width="400px">
-</div>
+
 
 Forking creates your own copy of a repository on your GitHub account. This allows you to freely experiment with changes without affecting the original project.
 
@@ -159,9 +157,7 @@ Forking creates your own copy of a repository on your GitHub account. This allow
 
 ## 📌 Issues and Discussions
 
-<div align="center">
-  <img src="https://docs.github.com/assets/cb-6064/images/help/issues/issues-overview-search.png" alt="GitHub Issues" width="600px">
-</div>
+
 
 Issues are a great way to keep track of tasks, enhancements, and bugs. They act as a shared to-do list for project contributors.
 
@@ -382,11 +378,13 @@ docker-compose up -d
 
 Not sure where to start? Here are some resources to find beginner-friendly projects:
 
+- [IEEE SoC](https://www.ieeesoc.xyz/repos) - Our Summer long open source contribution event
 - [Good First Issues](https://goodfirstissue.dev/) - Curated list of beginner-friendly issues
 - [First Timers Only](https://www.firsttimersonly.com/) - Resources for first-time contributors
 - [Up For Grabs](https://up-for-grabs.net/) - Projects with tasks specifically for new contributors
 - [CodeTriage](https://www.codetriage.com/) - Help out your favorite open source projects
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Annual event promoting open source contributions
+
 
 
 <div align="center">
